@@ -1,0 +1,1 @@
+Baseline code for reordering a product depending on current stock levels, desired stock levels, and anticipated demand
